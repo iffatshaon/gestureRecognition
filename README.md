@@ -8,6 +8,6 @@ https://github.com/athena15/project_kojak/tree/master/frames
 Raw input:<br/>
 ![Input](input.jpg)<br/>
 After preprocessing:<br/>
-![After preprocessing](processing.jpg)
+![After preprocessing](processed.jpg)
 ## Output:
 ![Output](output.jpg)
