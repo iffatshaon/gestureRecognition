@@ -5,9 +5,9 @@ https://github.com/athena15/project_kojak/tree/master/frames
 ## Training dataset samples:
 ![Dataset](dataset.jpg)
 ## Input images:
-Raw input:
-![Input](input.jpg)
-After preprocessing:
+Raw input:<br/>
+![Input](input.jpg)<br/>
+After preprocessing:<br/>
 ![After preprocessing](processing.jpg)
 ## Output:
 ![Output](output.jpg)
